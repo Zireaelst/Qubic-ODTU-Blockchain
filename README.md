@@ -4,6 +4,8 @@
 
 This document outlines the strategic activities Qubic will undertake to develop its ecosystem during Builders Week Istanbul, scheduled for September 1-7, 2025. Our plan includes hosting an exclusive side event, strengthening our strategic partnership with the Middle East Technical University (METU) Blockchain Society, actively participating in leading industry conferences, and implementing a structured operational methodology to manage the connections established during this period.
 
+![Qubic x ODTU Blockchain](assets/qubic%20x%20obt.png)
+
 **1. Flagship Event: Qubic & METU Blockchain Corporate Yacht Event**
 
 At the peak of Istanbul Blockchain Week, positioned between three major events—LightSEC, Bitcoin++, and ETHIstanbul—we will host an exclusive corporate yacht event in collaboration with the METU Blockchain Society.
@@ -51,3 +53,29 @@ A systematic approach will be adopted to manage the contacts made during the eve
 *   **University Group:** Students and university societies that can bring fresh talent and innovative ideas to the ecosystem.
 
 This structured approach will ensure targeted and efficient communication with the right stakeholders, accelerating collaboration processes and contributing to the tangible growth of the Qubic ecosystem.
+
+
+**Organization Cost Breakdown**
+
+The following table shows the estimated cost breakdown for the planned organization.
+
+| Expense Item | Notes | Amount (USD) |
+| :-------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--------------------: |
+| **Side Event** | Yacht event (Cocktail, Table Decoration, Drinks, Music, Service) | $7,000 |
+| **Donation** | To ODTU Blockchain Society (Full Transportation and Accommodation Costs for Board Members and Active Members) | $5,000 |
+| **Accommodation** | Two people (August 31 - September 7) | $1,580 |
+| **General Consumption** | Food, drinks, and other general expenses | $2,500 |
+| **Transportation** | Local and intercity transportation expenses | $1,100 |
+| **Tickets** | Organization entrance tickets | $1,400 |
+| **Salary** | Organization team salary | $4,000 |
+| **Giveaway** | For Qubic collaboration potential | $1,750 |
+| **TOTAL** | | **$24,330** |
+
+**Participant List**
+
+This table contains the participant lists for specific events and communities.
+
+| Event / Community | Participants |
+| :-----------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Qubic** | kriptolojik, Alaracam, Eylül Özdemir |
+| **METU Blockchain Society** | **Board Members:** Toygun Tez, Işıl Kartal, Hüseyin Akif Aybek, Yahya Emir Soyer, Zeynep Kaynak, Melike Yaraşır, Mert Çiçekçi\<br\>**Other:** Active Members |
