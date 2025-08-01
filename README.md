@@ -2,13 +2,13 @@
 
 **Introduction**
 
-This document outlines the strategic activities Qubic will undertake to develop its ecosystem during Builders Week Istanbul, scheduled for September 1-7, 2025. Our plan includes hosting an exclusive side event, strengthening our strategic partnership with the Middle East Technical University (METU) Blockchain Society, actively participating in leading industry conferences, and implementing a structured operational methodology to manage the connections established during this period.
+This document outlines the strategic activities Qubic will undertake to develop its ecosystem during Builders Week Istanbul, scheduled for September 1-7, 2025. Our plan includes hosting an exclusive side event, strengthening our strategic partnership with the Middle East Technical University (METU) ODTU Blockchain Society, actively participating in leading industry conferences, and implementing a structured operational methodology to manage the connections established during this period.
 
 ![Qubic x ODTU Blockchain](assets/qubic%20x%20obt.png)
 
-**1. Flagship Event: Qubic & METU Blockchain Corporate Yacht Event**
+**1. Flagship Event: Qubic & ODTU Blockchain Corporate Yacht Event**
 
-At the peak of Istanbul Blockchain Week, positioned between three major events—LightSEC, Bitcoin++, and ETHIstanbul—we will host an exclusive corporate yacht event in collaboration with the METU Blockchain Society.
+At the peak of Istanbul Blockchain Week, positioned between three major events—LightSEC, Bitcoin++, and ETHIstanbul—we will host an exclusive corporate yacht event in collaboration with the ODTU Blockchain Society.
 
 *   **Date:** September 4, 2025
 *   **Participant Profile:** A curated guest list of 170 attendees, including investors, academics, protocol founders, and development leaders.
@@ -19,9 +19,9 @@ At the peak of Istanbul Blockchain Week, positioned between three major events�
 
 This event is a significant opportunity for Qubic to showcase not only its technological capabilities but also its vision, community-centric approach, and leadership potential within the industry.
 
-**2. Strategic Partnership: Middle East Technical University (METU) Blockchain Society Collaboration**
+**2. Strategic Partnership: Middle East Technical University (METU) ODTU Blockchain Society Collaboration**
 
-Our collaboration with the METU Blockchain Society is a strategic initiative aimed at strengthening Qubic's academic and technical foundations. As one of Turkey's most prestigious technical universities, METU provides the following added value to this partnership:
+Our collaboration with the ODTU Blockchain Society is a strategic initiative aimed at strengthening Qubic's academic and technical foundations. As one of Turkey's most prestigious technical universities, METU provides the following added value to this partnership:
 
 *   **Technical Synergy:** Access to talented students and academics in fields such as computer engineering, artificial intelligence, and mathematics will facilitate a deeper understanding and further development of Qubic's complex technical architecture, including its UPow model and oracle system.
 *   **Academic Visibility:** The society's proficiency in preparing academic papers and technical presentations offers a significant opportunity to introduce Qubic's technology into scientific literature, thereby increasing its academic recognition.
@@ -41,7 +41,7 @@ Qubic will actively participate in the following three key events to engage dire
 
 **4. Operational Methodology: Stakeholder Relationship Management**
 
-A systematic approach will be adopted to manage the contacts made during the events and convert them into tangible collaborations. This methodology will be executed with the active participation of METU Blockchain Society members.
+A systematic approach will be adopted to manage the contacts made during the events and convert them into tangible collaborations. This methodology will be executed with the active participation of ODTU Blockchain Society members.
 
 1.  **Lead Identification and Information Gathering:** Initial contact will be made with individuals and organizations showing collaboration potential. Contact details, including Telegram, email, and LinkedIn, will be requested.
 2.  **Segmentation and Grouping:** The collected contacts will be segmented into five main categories based on their expertise and potential contributions. They will then be added to dedicated Telegram groups for focused communication:
@@ -61,8 +61,8 @@ The following table shows the estimated cost breakdown for the planned organizat
 
 | Expense Item | Notes | Amount (USD) |
 | :-------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--------------------: |
-| **Side Event** | Yacht event (Cocktail, Table Decoration, Drinks, Music, Service) | $7,000 |
-| **Donation** | To ODTU Blockchain Society (Full Transportation and Accommodation Costs for Board Members and Active Members) | $5,000 |
+| **Side Event** | Yacht event (Includes Yacht Charter, Cocktails, Table Decoration, Drinks, Music, Service) | $7,000 |
+| **ODTU Blockchain Society Travel & Development Fund** | To ODTU Blockchain Society (Full Transportation and Accommodation Costs for Board Members and Active Members) | $5,000 |
 | **Accommodation** | Two people (August 31 - September 7) | $1,580 |
 | **General Consumption** | Food, drinks, and other general expenses | $2,500 |
 | **Transportation** | Local and intercity transportation expenses | $1,100 |
