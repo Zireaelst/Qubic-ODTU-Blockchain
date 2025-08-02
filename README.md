@@ -72,9 +72,10 @@ The following table shows the estimated cost breakdown for the planned organizat
 | **TOTAL** | | **$24,330** |
 
 
-*kriptolojik (Sadık Emre Alkan's Wallet)
+kriptolojik (Sadık Emre Alkan's Wallet)
 
 PUFZSFKIPJCUOACGETEMFHBVCALAZJSSQFIDYTMHZBZQDRAJXHXIKPVFRBZE
+
 9.504.000.000 Total Qubic Amount 
 
 
