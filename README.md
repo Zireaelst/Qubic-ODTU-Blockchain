@@ -71,6 +71,11 @@ The following table shows the estimated cost breakdown for the planned organizat
 | **Giveaway** | For Qubic collaboration potential | $1,750 |
 | **TOTAL** | | **$24,330** |
 
+
+kriptolojik
+
+PUFZSFKIPJCUOACGETEMFHBVCALAZJSSQFIDYTMHZBZQDRAJXHXIKPVFRBZE
+
 **Participant List**
 
 This table contains the participant lists for specific events and communities.
