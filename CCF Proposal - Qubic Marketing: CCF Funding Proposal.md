@@ -1,4 +1,6 @@
-# Proposal
+# CCF Proposal - Qubic Marketing: CCF Funding Proposal
+
+## Proposal
 
 **Requested Amount:** $24,330 Total @ 0.0000025 USD per QUBIC - **9.700.000.000 QUBIC**
 
