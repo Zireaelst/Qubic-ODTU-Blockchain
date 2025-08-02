@@ -19,7 +19,7 @@ PUFZSFKIPJCUOACGETEMFHBVCALAZJSSQFIDYTMHZBZQDRAJXHXIKPVFRBZE
 
 This document outlines the strategic activities Qubic will undertake to develop its ecosystem during Builders Week Istanbul, scheduled for September 1-7, 2025. Our plan includes hosting an exclusive side event, strengthening our strategic partnership with the Middle East Technical University (METU) ODTU Blockchain Society, actively participating in leading industry conferences, and implementing a structured operational methodology to manage the connections established during this period.
 
-![Qubic x ODTU Blockchain](assets/qubic%20x%20obt.png)
+![Qubic x ODTU Blockchain](https://github.com/Zireaelst/Qubic-ODTU-Blockchain/blob/main/assets/qubic%20x%20obt.png)
 
 **1. Flagship Event: Qubic & ODTU Blockchain Corporate Yacht Event**
 
