@@ -1,3 +1,18 @@
+# Proposal
+
+**Requested Amount:** $24,330 Total @ 0.0000025 USD per QUBIC - **9.700.000.000 QUBIC**
+
+
+**Wallet Address:**
+```
+PUFZSFKIPJCUOACGETEMFHBVCALAZJSSQFIDYTMHZBZQDRAJXHXIKPVFRBZE
+```
+
+## Voting Options
+
+- **Option 0:** No, I don't want to approve this proposal
+- **Option 1:** Yes, approve the budget of **9.700.000.000 QUBIC**
+
 **Qubic Strategic Engagement and Ecosystem Development Plan: Builders Week Istanbul**
 
 **Introduction**
