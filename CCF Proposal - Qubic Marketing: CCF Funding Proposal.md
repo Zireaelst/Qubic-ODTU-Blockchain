@@ -86,6 +86,7 @@ The following table shows the estimated cost breakdown for the planned organizat
 | **Giveaway** | For Qubic collaboration potential | $1,750 |
 | **TOTAL** | | **$24,330** |
 
+**Note:** All expenses related to ODTU Blockchain Society (including full transportation, accommodation costs for board members and active members, and other associated costs) will be covered by the allocated $5,000 budget.
 
 kriptolojik (Sadık Emre Alkan's Wallet)
 
