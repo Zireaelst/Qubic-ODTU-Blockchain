@@ -2,7 +2,7 @@
 
 ## Proposal
 
-**Requested Amount:** $24,330 Total @ 0.0000023 USD per QUBIC - **4. What's the post-event follow-up plan to capitalize on new contacts? (Telegram groups are mentioned, but who's managing what?)***10.600.000.000 QUBIC**
+**Requested Amount:** $24,330 Total @ 0.0000023 USD per QUBIC - **10.600.000.000 QUBIC**
 
 
 **Wallet Address:**
